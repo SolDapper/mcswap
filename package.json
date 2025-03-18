@@ -1,0 +1,11 @@
+{
+  "name": "mcswap",
+  "version": "0.0.0-dev",
+  "description": "mcswap tools",
+  "main": "src/mcswap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@SolDapper",
+  "license": "MIT"
+}
