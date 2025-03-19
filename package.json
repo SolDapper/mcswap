@@ -1,11 +1,16 @@
 {
   "name": "mcswap",
-  "version": "0.0.0-dev",
-  "description": "mcswap tools",
+  "version": "0.4.6",
+  "description": "alias for mcswap-sdk",
   "main": "src/mcswap.js",
+  "type": "module",
+  "homepage": "https://mcswap.xyz",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "@SolDapper",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mcswap-sdk": "^0.4.6"
+  }
 }
