@@ -1,6 +1,6 @@
 {
   "name": "mcswap",
-  "version": "0.4.7",
+  "version": "0.4.9",
   "description": "alias for mcswap-sdk",
   "main": "src/mcswap.js",
   "type": "module",
@@ -11,6 +11,6 @@
   "author": "@SolDapper",
   "license": "MIT",
   "dependencies": {
-    "mcswap-sdk": "^0.4.7"
+    "mcswap-sdk": "^0.4.9"
   }
 }
