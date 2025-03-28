@@ -1,6 +1,6 @@
 {
   "name": "mcswap",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "alias for mcswap-sdk",
   "main": "src/mcswap.js",
   "type": "module",
